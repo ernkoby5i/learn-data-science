@@ -1,0 +1,27 @@
+HELP.md
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+logs
+*.zip
+out
+
+### VS Code ###
+.vscode/
+
+### Python ###
+python_modules
+package.zip
+__pycache__
+local.env
+local-dev.env
+
+### Server Less ###
+node_modules
+.serverless
+
+### data science ###
+.ipynb_checkpoints
