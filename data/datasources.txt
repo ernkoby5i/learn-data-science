@@ -1,0 +1,9 @@
+1. solar_system_data.csv
+   https://www.kaggle.com/datasets/jaredsavage/solar-system-major-bodies-data
+
+2. https://github.com/InterImm/dataset-planets-in-solar-system 
+   planets_in_solar_system.csv
+
+3. planets.csv
+   https://www.kaggle.com/code/alexandrepetit881234/planets-of-our-solar-system/data
+
